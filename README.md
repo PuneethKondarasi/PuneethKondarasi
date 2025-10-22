@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Puneeth Kondarasi</h1>
-# 💫 About Me:
-<h3 align="center">I'm a third-year Computer Science Engineering undergraduate with a passion for leveraging my technical skills to solve real-world problems. Through workshops and hackathons, I've gained hands-on experience in problem-solving, teamwork, and collaborating with like-minded peers. I am always eager to learn and grow in a fast-paced, ever-evolving tech environment.</h3>
+
+## 💫 About Me:
+<h3 align="center">I'm a final-year Computer Science student passionate about technology and real-world problem solving. Hackathons and collaborative projects have sharpened my problem-solving and leadership skills. Always eager to learn, I enjoy working with others to bring innovative ideas to life and contribute to meaningful projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=puneethkondarasi&label=Profile%20views&color=0e75b6&style=flat" alt="puneethkondarasi" /> </p>
 
@@ -27,8 +28,8 @@
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
 ### Web Development
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
 ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -42,10 +43,6 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### Design Tools
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
-![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
-
 ### Version Control
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -54,9 +51,6 @@
 ![Windows](https://img.shields.io/badge/windows-%23008A8C.svg?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 
-### Tools
-![Matlab](https://img.shields.io/badge/matlab-%23E1D94C.svg?style=for-the-badge&logo=matlab&logoColor=black) 
-![Postman](https://img.shields.io/badge/postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=PuneethKondarasi&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
